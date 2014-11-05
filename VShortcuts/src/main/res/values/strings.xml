@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VShortcuts</string>
+    <string name="version_name">0.1</string>
+    <string name="about_us">
+        <b>VShortcut 0.1</b>
+        \nCopyright 2014, WhoopeeLab Inc.
+    </string>
+
+    <string name="app_description">VShortcut allows you to configure Letter Shortcuts for starting other Apps and/or calling a Contact from Phone Book</string>
+    <string name="add_v_shortcut">Add V Shortcut</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_app">Add App Shortcut</string>
+    <string name="add_number">Add Number Shortcut</string>
+    <string name="del_app">Del Shortcut</string>
+
+    <array name="edit_dialog_options">
+        <item>Add Application Shortcut</item>
+        <item>Add Number Shortcut</item>
+        <item>Delete Shortcut</item>
+    </array>
+    <string-array name="add_dialog_options">
+        <item>Add Application Shortcut</item>
+        <item>Add Number Shortcut</item>
+    </string-array>
+
+    <string name="select_letter">Select Letter Shortcut</string>
+    <string name="all_letters_prompt">S</string>
+
+    <string-array name="all_letters">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+
+    <string name="title_activity_apps">All Applications</string>
+    <string name="title_activity_shortcut">Shortcut Launch</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_shortcut_voice">ShortcutVoiceActivity</string>
+
+    <string name="add_application_shortcut">Add Application Shortcut</string>
+    <string name="add_number_shortcut">Add Number Shortcut</string>
+
+    <string name="off_option">Disable Volume Ctrl Shortcut</string>
+    <string name="on_option">Enable Volume Ctrl Shortcut</string>
+    <string name="about">About</string>
+
+</resources>

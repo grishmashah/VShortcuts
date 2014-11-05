@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/shortcut_widget_text"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:textColor="#FFF"
+            android:text="Speak\nLetter"/>
+
+        <ImageButton
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/shortcut_widget_image"
+            android:background="@drawable/shortcut"
+            android:focusable="true"/>
+
+    </LinearLayout>
+
+</FrameLayout><!-- From: file:/Users/grishmashah/personal_projects_workspace/VShortcuts/VShortcuts/src/main/res/layout/widget.xml -->
